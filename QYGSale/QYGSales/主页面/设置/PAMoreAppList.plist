@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageUrl</key>
+		<string>pa_ebank_icon.png</string>
+		<key>title</key>
+		<string>平安口袋银行</string>
+		<key>appIntroduction</key>
+		<string>平安口袋银行是平安银行专为iPhone, iPod touch的用户推出的移动金融服务平台,通过它,您可以随时随地掌控自己的金融资产,三大特色让您畅享全新的移动银行服务体验。</string>
+		<key>downloadUrl</key>
+		<string>https://itunes.apple.com/cn/app/ping-kou-dai-yin-xing-ping/id439212087?mt=8</string>
+	</dict>
+	<dict>
+		<key>imageUrl</key>
+		<string>pa_licai_icon.png</string>
+		<key>title</key>
+		<string>理财产品速递</string>
+		<key>appIntroduction</key>
+		<string>理财产品速递是由平安推出的一款的集合各家银行理财产品的即时筛选比价工具，可以让您快速找到您想要的银行理财产品。
+    无论哪家银行，无论是追求高收益，还是寻求保本，还是两者兼顾或需求更多，这款专业的理财工具都能满足。</string>
+		<key>downloadUrl</key>
+		<string>https://itunes.apple.com/cn/app/li-cai-chan-pin-su-di/id570144814?mt=8</string>
+	</dict>
+	<dict>
+		<key>imageUrl</key>
+		<string>pa_4s_icon.png</string>
+		<key>title</key>
+		<string>平安4s</string>
+		<key>appIntroduction</key>
+		<string>平安4S是由中国平安推出的一款手机客服端软件，通过与4s店合作，
+    为用户提供4S店的资讯，优惠活动，预约保养维修等</string>
+		<key>downloadUrl</key>
+		<string>https://itunes.apple.com/cn/app/ping-an4s/id569760428?mt=8</string>
+	</dict>
+	<dict>
+		<key>imageUrl</key>
+		<string>pa_ass_icon.png</string>
+		<key>title</key>
+		<string>平安行车助手</string>
+		<key>appIntroduction</key>
+		<string>平安行车助手是中国平安为广大车主用户推出的一款实用工具。
+    洗车指数、违章查询、油耗记录功能是客户在用车养车中的得力小助手。</string>
+		<key>downloadUrl</key>
+		<string>https://itunes.apple.com/cn/app/ping-an-xing-che-zhu-shou/id488026942?mt=8</string>
+	</dict>
+	<dict>
+		<key>imageUrl</key>
+		<string>pa_renshou_icon.png</string>
+		<key>title</key>
+		<string>平安人寿</string>
+		<key>appIntroduction</key>
+		<string>平安人寿E服务APP是面向IPhone手机客户全新推出的自助智能服务客户端。
+    
+    通过将寿险客户细分为严谨型、轻松型、游客型三类，该客户端分别提供了不同的贴心服务模式，包括：一账通密码认证体系保单服务模式；手机号匹配保单服务模式；以及保单查验、门店查询、价格公告、保险知识、热销产品、推荐资讯、活动专区等无需身份认证的服务模式；是寿险客户打理保单、了解寿险不可或缺的智能工具。</string>
+		<key>downloadUrl</key>
+		<string>https://itunes.apple.com/cn/app/ping-an-ren-shou/id549421060?mt=8</string>
+	</dict>
+	<dict>
+		<key>imageUrl</key>
+		<string>pa_guide_icon.png</string>
+		<key>title</key>
+		<string>平安免费导航</string>
+		<key>appIntroduction</key>
+		<string>平安免费导航☆是平安随行车主系列手机应用。
+    
+    当您面对日新月异的城市变化时,当您自驾车出游遭遇陌生的道路环境时,您是否希望能得到出行的提示和道路指引?☆平安随行—导航版☆能帮您准确定位、替您规划最优路线、指引您顺利到达目的地,保让您出行无忧!
+    同时您也可以利用内置的车险报价功能,查询您的车险报价,享受平安私家车商业险多省15%的优惠和万元以下资料齐全一天赔付得快捷服务。</string>
+		<key>downloadUrl</key>
+		<string>https://itunes.apple.com/cn/app/ping-an-mian-fei-dao-hang/id472914806?mt=8</string>
+	</dict>
+	<dict>
+		<key>imageUrl</key>
+		<string>pa_carsure_icon.png</string>
+		<key>title</key>
+		<string>平安车险</string>
+		<key>appIntroduction</key>
+		<string>您还在为如何买车险烦恼?中国平安独家推出车险报价、投保、服务一站式客户端软件,让您轻轻松松买车险。
+    
+    在这里,您的私家车商业险不仅可享受多省15%的价格,以及丰富的礼品,还可以直接语音输入复杂的信息,更方便您录入。
+    
+    想完全自主买车险,现在就下载吧!</string>
+		<key>downloadUrl</key>
+		<string>https://itunes.apple.com/cn/app/ping-an-che-xian/id462722369?mt=8</string>
+	</dict>
+	<dict>
+		<key>imageUrl</key>
+		<string>pa_suixing_icon.png</string>
+		<key>title</key>
+		<string>平安随行</string>
+		<key>appIntroduction</key>
+		<string>平安随行是中国平安针对广大有车一族推出的免费客户端软件</string>
+		<key>downloadUrl</key>
+		<string>https://itunes.apple.com/cn/app/ping-an-sui-xing/id438633707?mt=8</string>
+	</dict>
+	<dict>
+		<key>imageUrl</key>
+		<string>pa_life_icon.png</string>
+		<key>title</key>
+		<string>平安生活</string>
+		<key>appIntroduction</key>
+		<string>平安生活,提供生活娱乐、分期购物、手机充值、优惠查询等丰富功能,让您随时随地尽享生活便捷与乐趣</string>
+		<key>downloadUrl</key>
+		<string>https://itunes.apple.com/cn/app/ping-an-sheng-huo/id431213240?mt=8</string>
+	</dict>
+</array>
+</plist>
